@@ -6,12 +6,39 @@ import portfolioImg from "../../assets/portfolio/personal-website.png";
 import avatarImg from "../../assets/portfolio/avatar-test.png";
 import lecturmoImg from "../../assets/portfolio/lecturmo.png";
 import GJHouseImg from "../../assets/portfolio/GJHouse.webp";
+import SparkleHaze from "../../assets/portfolio/SparkleHaze.png"
+import DrTuring from "../../assets/portfolio/Dr-turing.png"
 
 // default heights
 const mobileBackHeight = "500px";
 const PCBackHeight = "480px";
 
 const projects = [
+  {
+    title: "Dr Turing",
+    src: DrTuring,
+    desc: "AI chatbot that allows patients to chat to an AI which recommends where to go if a person feels unwell and generates a SOAP report which can be shared with the healthcare provider via a code. It is written using React with a Node Backend. It utilizes AWS such as DynamoDb for the Database and AWS bedrock for the model. The model is trained using Resource Augmented Generation (RAG)",
+    skills: [
+      "DynamoDB",
+      "ExpressJs",
+      "React",
+      "NodeJs",
+      "Google Oauth 2",
+      "MUI",
+      "AWS EC2",
+      "Github Actions",
+      "AWS Bedrock",
+      "API",
+      "PR Review",
+      "HTML",
+      "CSS",
+      "GitHub",
+    ],
+    demo: "https://lecturmo.org",
+    code: "https://github.com/tonexie/lecturmon",
+    mobileBackHeight: "700px",
+    PCBackHeight: "650px",
+  },
   {
     title: "Lecturmo - MERN Stack",
     src: lecturmoImg,
@@ -60,8 +87,8 @@ const projects = [
     warning: true,
   },
   {
-    title: "Fourier Labs Landing Page",
-    src: fourierLabsImg,
+    title: "SparkleHaze Messenging feature",
+    src: SparkleHaze,
     desc: "In the Vue development role for the Fourier Labs landing page, successfully integrated new components based on Figma design specifications, encompassing the creation of numerous page views and visual elements. Ensured the website's responsive design, improved footer link functionality, and addressed existing bugs for enhanced performance.",
     skills: [
       "VueJs",

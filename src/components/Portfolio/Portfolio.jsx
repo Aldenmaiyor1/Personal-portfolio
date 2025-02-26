@@ -40,7 +40,7 @@ const Portfolio = () => {
                   <img
                     src={src}
                     alt={`${src} img`}
-                    className="relative block rounded-md p-[0.8px]"
+                    className="relative block rounded-md p-[0.8px] h-[100%]"
                   />
                 }
                 back={

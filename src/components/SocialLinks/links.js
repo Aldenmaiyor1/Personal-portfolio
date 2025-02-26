@@ -62,7 +62,7 @@ const links = [
         <BsFillPersonLinesFill size={45} />
       </>
     ),
-    href: "/Resume_XIE_TONE.pdf",
+    href: "/AldenMaiyor_CV (4).pdf",
     style: "rounded-br-md",
     download: true,
   },

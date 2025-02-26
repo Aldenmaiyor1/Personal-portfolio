@@ -71,12 +71,12 @@ export const Footer = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/tonexie/personal-portfolio"
+            href="https://github.com/Aldenmaiyor1/Personal-portfolio"
           >
             Created with ❤️ using React, click to view code.
           </a>
         </div>
-        <div className="text-center mt-2">© 2024 Tone Xie Porfolio Website. All rights reserved. </div>
+        <div className="text-center mt-2">© 2024 Alden Maiyor Porfolio Website. All rights reserved. </div>
       </div>
     </div>
   );

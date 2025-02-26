@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # Personal-portfolio
 =======
 ## Check out my website here!
-https://tx-portfolio.netlify.app/
-<img width="955" alt="personal-website" src="https://github.com/tonexie/personal-portfolio/assets/131140622/fea52741-1ecf-446c-9c9c-fb57f6e8f9d8">
+https://aldenmaiyor-portfolio.netlify.app
 
 
 ## Available Scripts
@@ -72,4 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 6da06c8 (asdf)

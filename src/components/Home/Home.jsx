@@ -59,8 +59,8 @@ const Home = () => {
             >
               <Typewriter
                 words={[
-                  "Future Software\nEngineer",
-                  "Former Structural\nEngineer",
+                  "Aspiring Software\nEngineer",
+                  "Former Health\nWorker",
                 ]}
                 loop={false}
                 cursor
@@ -86,7 +86,7 @@ const Home = () => {
                 className="text-gray-200 max-w-md m-1 relative z-1"
               >
                 Welcome to my corner of the web! 🚀 I'm passionate about
-                crafting digital solutions and currently pursuing my Masters
+                crafting digital solutions and recently finished my Masters
                 degree in Information Technology. Explore my journey, projects,
                 and skills below!
               </motion.p>

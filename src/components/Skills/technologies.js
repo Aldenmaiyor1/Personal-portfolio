@@ -42,16 +42,6 @@ const technologies = [
     style: { boxShadow: "2px 2px 4px #1565c0, -2px 0px 4px #f44336" },
   },
   {
-    src: svelteIcon,
-    name: "Svelte",
-    style: { boxShadow: "2px 2px 4px #ef4823, -2px 2px 4px #ffffff" },
-  },
-  {
-    src: vueIcon,
-    name: "VueJs",
-    style: { boxShadow: "2px 2px 4px #81c784, -2px 0px 4px #455a64" },
-  },
-  {
     src: jsIcon,
     name: "JavaScript",
     style: { boxShadow: "2px 2px 4px #ffd600, -2px 2px 4px #ffd600" },
@@ -85,11 +75,6 @@ const technologies = [
     src: sqlIcon,
     name: "SQL",
     style: { boxShadow: "2px 2px 4px #3d4b89, -2px 2px 4px #5663af" },
-  },
-  {
-    src: autocadIcon,
-    name: "AutoCAD",
-    style: { boxShadow: "2px 2px 4px #cb2123, -2px 2px 4px #cb2123" },
   },
 
 ];

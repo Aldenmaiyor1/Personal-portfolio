@@ -1,10 +1,7 @@
-import spaceshipImg from "../../assets/portfolio/spaceship-game.png";
 import g2BlogImg from "../../assets/portfolio/g2-blog.png";
 import pokemonImg from "../../assets/portfolio/pokemon-viewer.png";
 import portfolioImg from "../../assets/portfolio/personal-website.png";
-import avatarImg from "../../assets/portfolio/avatar-test.png";
 import lecturmoImg from "../../assets/portfolio/lecturmo.png";
-import GJHouseImg from "../../assets/portfolio/GJHouse.webp";
 import SparkleHaze from "../../assets/portfolio/SparkleHaze.png"
 import DrTuring from "../../assets/portfolio/Dr-turing.png"
 

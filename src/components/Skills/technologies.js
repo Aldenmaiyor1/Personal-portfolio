@@ -2,7 +2,6 @@ import htmlIcon from "../../assets/icons/html.svg";
 import cssIcon from "../../assets/icons/css.svg";
 import jsIcon from "../../assets/icons/js.svg";
 import reactIcon from "../../assets/icons/react.svg";
-import vueIcon from "../../assets/icons/vue.svg";
 import nodeIcon from "../../assets/icons/nodejs.svg";
 import expressIcon from "../../assets/icons/expressjs.svg";
 import javaIcon from "../../assets/icons/java.svg";
@@ -11,9 +10,6 @@ import pythonIcon from "../../assets/icons/python.svg";
 import tailwindIcon from "../../assets/icons/tailwind.svg";
 import { FaGithub } from "react-icons/fa";
 import mongoDBIcon from "../../assets/icons/mongoDB.png";
-import svelteIcon from "../../assets/icons/svelte.svg";
-import autocadIcon from "../../assets/icons/autocad.svg";
-
 const technologies = [
 
   {

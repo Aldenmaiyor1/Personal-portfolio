@@ -1,5 +1,4 @@
 import spaceshipImg from "../../assets/portfolio/spaceship-game.png";
-import fourierLabsImg from "../../assets/portfolio/fourier-labs.png";
 import g2BlogImg from "../../assets/portfolio/g2-blog.png";
 import pokemonImg from "../../assets/portfolio/pokemon-viewer.png";
 import portfolioImg from "../../assets/portfolio/personal-website.png";

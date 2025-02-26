@@ -16,7 +16,7 @@ const links = [
         <FaLinkedin size={45} />
       </>
     ),
-    href: "https://www.linkedin.com/in/tone-xie-87a5b3141/",
+    href: "https://www.linkedin.com/in/alden-maiyor-284712257/",
     style: "rounded-tr-md",
   },
   {
@@ -32,7 +32,7 @@ const links = [
         <FaGithub size={45} />
       </>
     ),
-    href: "https://github.com/tonexie",
+    href: "https://github.com/Aldenmaiyor1",
   },
   {
     id: 3,
@@ -47,7 +47,7 @@ const links = [
         <HiOutlineMail size={45} />
       </>
     ),
-    href: "mailto:tone.xie@gmail.com",
+    href: "mailto:Aldenmaiyor1411@gmail.com",
   },
   {
     id: 4,

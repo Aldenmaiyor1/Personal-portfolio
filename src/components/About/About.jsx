@@ -20,8 +20,8 @@ const About = () => {
 
         <p className="text-base md:text-xl">
           I am a highly motivated aspiring software engineer with a background
-          in structural engineering, which has equipped me with problem-solving
-          skills and an acute attention to detail. I am passionate about the
+          in healthcare, which has equipped me with problem-solving
+          skills, communication skills and resourcefullness. I am passionate about the
           software engineering field, where I aim to leverage my diverse skill
           set to contribute to new exciting projects.
         </p>
@@ -30,8 +30,7 @@ const About = () => {
           I am eager to join a dynamic environment that not only promotes
           continuous learning and development but also embodies a strong
           commitment to professional growth with a positive and inclusive
-          company culture. In my free time, I am an avid tennis player and enjoy
-          reading.
+          company culture. In my free time, I enjoy reading and learning new things.
         </p>
 
         <h2 className="text-[1.8rem] text-center pb-4 pt-24">Timeline</h2>

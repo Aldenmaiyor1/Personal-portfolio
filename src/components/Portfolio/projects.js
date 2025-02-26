@@ -35,7 +35,7 @@ const projects = [
       "GitHub",
     ],
     demo: "https://lecturmo.org",
-    code: "https://github.com/tonexie/lecturmon",
+    code: "https://github.com/Aldenmaiyor1/Lecturmo",
     mobileBackHeight: "700px",
     PCBackHeight: "650px",
   },

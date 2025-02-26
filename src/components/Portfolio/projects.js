@@ -4,6 +4,7 @@ import portfolioImg from "../../assets/portfolio/personal-website.png";
 import lecturmoImg from "../../assets/portfolio/lecturmo.png";
 import SparkleHaze from "../../assets/portfolio/SparkleHaze.png"
 import DrTuring from "../../assets/portfolio/Dr-turing.png"
+import Portfolio from "../../assets/portfolio/Alden-profolio.png";
 
 // default heights
 const mobileBackHeight = "500px";
@@ -106,15 +107,15 @@ const projects = [
     src: pokemonImg,
     desc: "Developed a App using React Native that allows a user to search for games which are on sale on steam",
     skills: ["ExpressJs", "NodeJs", "React Native", "JavaScript", "Expo", "CSS", "Tailwind"],
-    demo: "https://pokemon-viewer-1g8o.onrender.com/#",
-    code: false,
+    demo: false,
+    code: "https://github.com/Aldenmaiyor1/SteamGameApp",
     mobileBackHeight: "550px",
     PCBackHeight: PCBackHeight,
     warning: true,
   },
   {
     title: "Personal Portfolio Website",
-    src: portfolioImg,
+    src: Portfolio,
     desc: "Explore my dynamic personal portfolio website, built with React and Tailwind CSS, enhanced with fluid animations powered by Framer Motion! With a focus on modular input data, ensuring effortless updates to showcase my evolving skills and projects.",
     skills: [
       "React",
@@ -124,7 +125,7 @@ const projects = [
       "CSS",
       "JavaScript",
     ],
-    code: "https://github.com/Aldenmaiyor1/SteamGameApp",
+    code: "https://github.com/Aldenmaiyor1/Personal-portfolio",
     mobileBackHeight: mobileBackHeight,
     PCBackHeight: PCBackHeight,
     warning: false,
